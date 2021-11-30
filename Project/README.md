@@ -31,7 +31,7 @@ If running on Google Colab, Runtime will need to be restarted at least once to r
 
 The notebook performs the comparison on the ODB dataset. The original files can be separately accessed here: https://grfia.dlsi.ua.es/cm/worklines/pertusa/onset/ODB/. A .zip file containing the data can be found in my Github page for ease of access here: https://github.com/leboucletoledo/DT2470_MusicInformatics/blob/master/Project/Data/ODB.zip.
 
-On section 0.3 of the notebook, you will need to input where are the audio and annotation files located. In case of running on Google Colab, then you should upload a copy of the dataset and make changes as noted in sectino 0.2.
+On section 0.3 of the notebook, you will need to input where are the audio and annotation files located. In case of running on Google Colab, then you should upload a copy of the dataset and make changes as noted in section 0.2.
 
 ## References
 
